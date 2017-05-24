@@ -1,4 +1,4 @@
-# Lazy Evaulation
+# Lazy Evaulation by Joe Jevnik
  * Must be pure functions
  * Thunks (aka closuers)
 ## Python Tooling
