@@ -1,4 +1,4 @@
-# Solid Snakes by Hyneck Schlawack
+# Solid Snakes or: How to Take 5 Weeks of Vacation by Hyneck Schlawack
 ## Simple Software
  * Good design = ravioli, many objects/functions that are self-contained and not very aware of each other
 ## Complex Software

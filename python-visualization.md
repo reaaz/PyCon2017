@@ -1,4 +1,4 @@
-# Python Visualization Tools
+# The Python Visualization Landscape by Jake VanderPlas
 ## Started with matplotlib
 ### Pros
 * Designed like MatLab
@@ -11,9 +11,9 @@
 * Poor support for web/interactive graphs
 * Slow for large & complicated data
 ## Pandas (built on matplotlib)
- * One-liner for a scatterplot
+* One-liner for a scatterplot
 ## Seaborn (built on matplotlib)
- * pairplot
+* pairplot
 ## JavaScript-based Viz
 * Common-idea: build a new API that produces a plot serialization (in JSON) that can be displayed in the browser (often in Jupytr notebooks)
 ### Bokeh
@@ -41,7 +41,7 @@
 * Instead of pushing pixels, pass around visualization specs and data
 * Declarative visualization - think about data and relationships rather than incidental details
 ### d3
- * Used by NYTimes
- * Verbose
+* Used by NYTimes
+* Verbose
 ### Vega - declarative specification for visualizations built on D3
 ### Vegalite - way simpler than Vega, toss in the data and the type of graph

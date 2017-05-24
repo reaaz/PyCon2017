@@ -1,4 +1,4 @@
-# Fuzzy Search Algorithms
+# Fuzzy Search Algorithms: How and When to Use Them by Jiaqi Liu
 ## Context matters
 ### Entity resolution (us vs usa)
 ## Common algorithms

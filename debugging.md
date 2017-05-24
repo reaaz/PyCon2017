@@ -1,4 +1,4 @@
-# Debugging in Python 3.6
+# Debugging in Python 3.6: Better, Faster, Stronger by Elizaveta Shashkova
 ## New frame evaluation API
  * `dis` package for returning bytecode in human-readable format
  * Don't need to call tracing function on every line any more, program runs almost as fast with debugger running (but run into slowness if debugging loop body)

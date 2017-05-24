@@ -1,4 +1,4 @@
-# Static Types for Python
+# Static Types for Python by Jukka Lehtosalo, David Fisher
 ## Motivation
 ## Considering our options
  1. Add special docstrings or comments
